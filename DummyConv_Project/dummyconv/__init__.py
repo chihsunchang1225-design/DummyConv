@@ -1,1 +1,0 @@
-from .model import Simple3LayerConv, test_model
