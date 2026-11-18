@@ -1,4 +1,4 @@
 # DummyConv
 There are nothing here.
-Just for test.
+Just a dimple test project.
 
